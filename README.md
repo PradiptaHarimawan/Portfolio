@@ -1,2 +1,2 @@
 # Portfolio
-[Click Here](https://pradiptaharimawan.github.io/MIKU-E-SKPO/Home.html)
+[Click Here](https://pradiptaharimawan.github.io/Portfolio/)
