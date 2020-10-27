@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+}
+section{
+    margin-top: 200px;
+}
+.col{
+    text-align: center;
+}
+.col h2{
+    text-align: left;
+}
+.col h1{
+    margin-top: 1px;
+    text-align: left;
+}
+.col h4{
+    margin-top: 1px;
+    text-align: left;
+}
+.col .proj{
+    text-align: center;
+}
+
+.col img{
+    width: 250px;
+}
+.fox:hover{
+    opacity: 30%;
+    background-color: black;
+}
+.abtme{
+    text-align: center;
+    background-color: #f2f2f5;
+    left: 50%;
+    right: 50%;
+}
+.prjct{
+    text-align: center;
+}
+.projectShow{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.proj h2{
+    text-align: center;
+    text-decoration-line: underline;
+}
+.proj p{
+    text-align: center;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a{
+    color: white;
+}
