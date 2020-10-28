@@ -55,3 +55,9 @@ section{
 .nav-item a{
     color: white;
 }
+.miku .show{
+    display: inline-block;
+}
+.miku img{
+    display: none;
+}
