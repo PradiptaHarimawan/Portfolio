@@ -61,3 +61,19 @@ section{
 .miku img{
     display: none;
 }
+.autoslider{
+    position:relative;
+    animation:
+    animateright 0.7s}
+@keyframes animateright{
+    from{right:-300px;opacity:0} 
+    to{right:0;opacity:1}
+ }
+ .autoslidel{
+    position:relative;
+    animation:
+    animateleft 0.4s}
+@keyframes animateleft{
+    from{left:-300px;opacity:0} 
+    to{left:0;opacity:1}
+ }
